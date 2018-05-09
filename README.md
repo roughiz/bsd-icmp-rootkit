@@ -24,7 +24,7 @@ $ ./unload_module.sh
 
 ## Send a command to the remote rootkit
 
-You can send a command the the rootkit, with the hping3 command by sending an icmp echo with a payload.
+You can send a command to the rootkit, with the hping3 tool by sending an icmp echo with a payload.
 To make this, you can execute the script :
 ```
 $ ./sendcmd.sh [ip address of the remote machine or the hostname]
