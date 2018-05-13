@@ -17,7 +17,6 @@
 #include <sys/sysproto.h>
 #include <sys/linker.h>
 #include <sys/libkern.h>
-#include <sys/dirent.h>
 #include <netinet/in.h>
 #include <netinet/in_systm.h>
 #include <netinet/ip.h>
